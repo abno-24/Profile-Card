@@ -27,8 +27,8 @@ This is one of the difficult project i have build. The difficult part is to set 
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/abno-24/Profile-Card)
+- Live Site URL: [Github Pages](https://abno-24.github.io/Profile-Card/)
 
 ### Built with
 
