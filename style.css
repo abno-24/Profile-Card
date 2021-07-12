@@ -116,6 +116,7 @@ hr{
     .card-container{
         width: 40%;
         min-height: 65vh;
+        overflow: hidden;
     }
     img{
         left: 46%;
@@ -137,6 +138,7 @@ hr{
     .card-container{
         width: 50%;
         min-height: 65vh;
+        overflow: hidden;
     }
     img{
         left: 45%;
@@ -157,8 +159,30 @@ hr{
     .card-container{
         width: 65%;
         min-height: 65vh;
+        overflow: hidden;
     }
     img{
         left: 43%;
+    }
+}
+@media only screen and (max-width: 500px){
+    .svg{
+        position: absolute;
+    }
+    .top{
+        top: -115%;
+        left: -250%;
+    }
+    .bottom{
+        right: -220%;
+        bottom: -130%;
+    }
+    .card-container{
+        width: 85%;
+        min-height: 65vh;
+        overflow: hidden;
+    }
+    img{
+        left: 37%;
     }
 }
